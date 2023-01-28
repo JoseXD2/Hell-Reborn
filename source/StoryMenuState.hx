@@ -170,6 +170,11 @@ class StoryMenuState extends MusicBeatState
 				FlxTween.tween(redThing, {x: 0}, 0.15, {ease: FlxEase.smoothStepInOut});
 			}});
 		}});
+		
+		#if android
+                addVirtualPad(LEFT_FULL, A_B);
+                #end
+		
 		super.create();
 	}
 

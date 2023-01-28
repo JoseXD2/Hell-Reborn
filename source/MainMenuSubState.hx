@@ -43,6 +43,9 @@ class MainMenuSubState extends MusicBeatSubstate {
         }
 
         add(optionGroup);
+	    #if android
+                addVirtualPad(LEFT_RIGHT, A_B);
+                #end
 		changeSelection();
 
 		camAchievement = new FlxCamera();

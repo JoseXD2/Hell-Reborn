@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				284,
+				374
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Maniac X Left"
+		},
+		{
+			"offsets": [
+				361,
+				384
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Maniac X Down"
+		},
+		{
+			"offsets": [
+				303,
+				368
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Maniac X Up"
+		},
+		{
+			"offsets": [
+				330,
+				370
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Maniac X Right"
+		},
+		{
+			"offsets": [
+				335,
+				359
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "Maniac X Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Manic X",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "x",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		95,
+		131
+	],
+	"camera_position": [
+		-390,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

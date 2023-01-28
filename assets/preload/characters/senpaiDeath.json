@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Senpai Pre Explosion"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1010
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Senpai Pre Explosion",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				-1120
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "Senpai Pre Explosion"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/senpaiDeath",
+	"position": [
+		150,
+		200
+	],
+	"healthicon": "senpai-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		170,
+		111
+	],
+	"camera_position": [
+		260,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

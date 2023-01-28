@@ -1,0 +1,2 @@
+VALUE1: Fade Color, Second Fade Color (Leave second fade color blank if you want only 1 color)
+VALUE2: IN or OUT

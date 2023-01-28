@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				339,
+				311
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "XenoRing_Idle"
+		},
+		{
+			"offsets": [
+				339,
+				311
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "XenoRing_Left"
+		},
+		{
+			"offsets": [
+				340,
+				311
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "XenoRing_Down"
+		},
+		{
+			"offsets": [
+				339,
+				311
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "XenoRing_Right"
+		},
+		{
+			"offsets": [
+				339,
+				324
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "XenoRing_Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoRing",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "xeno1",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		96
+	],
+	"camera_position": [
+		80,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

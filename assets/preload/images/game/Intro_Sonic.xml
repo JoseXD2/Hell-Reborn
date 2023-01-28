@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Intro Sonic.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idling0000" x="0" y="0" width="240" height="240"/>
+	<SubTexture name="Idling0001" x="0" y="0" width="240" height="240"/>
+	<SubTexture name="Jumping0000" x="240" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0001" x="360" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0002" x="480" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0003" x="600" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0004" x="720" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0005" x="840" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0006" x="480" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0007" x="960" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0008" x="720" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0009" x="1080" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0010" x="480" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0011" x="1200" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0012" x="720" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0013" x="1320" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0014" x="480" y="0" width="120" height="120"/>
+	<SubTexture name="Jumping0015" x="1440" y="0" width="120" height="120"/>
+	<SubTexture name="Lookup0000" x="1560" y="0" width="240" height="240"/>
+	<SubTexture name="Running0000" x="1800" y="0" width="240" height="240"/>
+	<SubTexture name="Running0001" x="0" y="240" width="240" height="240"/>
+	<SubTexture name="Running0002" x="240" y="240" width="240" height="240"/>
+	<SubTexture name="Running0003" x="480" y="240" width="240" height="240"/>
+	<SubTexture name="Running0004" x="720" y="240" width="240" height="240"/>
+	<SubTexture name="Running0005" x="960" y="240" width="240" height="240"/>
+	<SubTexture name="Running0006" x="1200" y="240" width="240" height="240"/>
+	<SubTexture name="Running0007" x="1440" y="240" width="240" height="240"/>
+	<SubTexture name="Walking0000" x="1680" y="240" width="205" height="205"/>
+	<SubTexture name="Walking0001" x="1680" y="240" width="205" height="205"/>
+	<SubTexture name="Walking0002" x="0" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0003" x="0" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0004" x="205" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0005" x="205" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0006" x="410" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0007" x="410" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0008" x="615" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0009" x="615" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0010" x="820" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0011" x="820" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0012" x="1025" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0013" x="1025" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0014" x="1230" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0015" x="1230" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0016" x="1435" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0017" x="1435" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0018" x="1640" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0019" x="1640" y="480" width="205" height="205"/>
+	<SubTexture name="Walking0020" x="0" y="685" width="205" height="205"/>
+	<SubTexture name="Walking0021" x="0" y="685" width="205" height="205"/>
+</TextureAtlas>

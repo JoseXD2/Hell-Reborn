@@ -1,0 +1,2 @@
+if value 1 "true" then health bar hidden
+if value 1 "false" then health bar shown

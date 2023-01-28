@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Eyes.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle" x="0" y="0" width="800" height="600"/>
+	<SubTexture name="Right_1" x="800" y="0" width="800" height="600"/>
+	<SubTexture name="Right_2" x="800" y="0" width="800" height="600"/>
+	<SubTexture name="Right_3" x="800" y="0" width="800" height="600"/>
+	<SubTexture name="Right_4" x="800" y="0" width="800" height="600"/>
+	<SubTexture name="Left_1" x="0" y="600" width="800" height="600"/>
+	<SubTexture name="Left_2" x="0" y="600" width="800" height="600"/>
+</TextureAtlas>

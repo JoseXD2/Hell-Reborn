@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				263,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				454,
+				-87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				252,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				240,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				80,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Chem_X",
+	"position": [
+		240,
+		150
+	],
+	"healthicon": "chem",
+	"flip_x": false,
+	"healthbar_colors": [
+		210,
+		105,
+		77
+	],
+	"camera_position": [
+		-240,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

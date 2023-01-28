@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				17,
+				191
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Sonix enter"
+		},
+		{
+			"offsets": [
+				17,
+				191
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Sonix stay"
+		},
+		{
+			"offsets": [
+				17,
+				191
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Sonix stay"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sonix gameover",
+	"position": [
+		1690,
+		1410
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-2170,
+		-1400
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="invislolXD.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="invislol Down instance 10000" x="0" y="0" width="548" height="527" frameX="0" frameY="-1" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10001" x="548" y="0" width="542" height="527" frameX="-3" frameY="-1" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10002" x="1090" y="0" width="534" height="528" frameX="-6" frameY="0" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10003" x="1624" y="0" width="529" height="528" frameX="-11" frameY="0" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10004" x="1624" y="0" width="529" height="528" frameX="-11" frameY="0" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10005" x="0" y="0" width="548" height="527" frameX="0" frameY="-1" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10006" x="548" y="0" width="542" height="527" frameX="-3" frameY="-1" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10007" x="1090" y="0" width="534" height="528" frameX="-6" frameY="0" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10008" x="1624" y="0" width="529" height="528" frameX="-11" frameY="0" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10009" x="1624" y="0" width="529" height="528" frameX="-11" frameY="0" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10010" x="0" y="0" width="548" height="527" frameX="0" frameY="-1" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10011" x="548" y="0" width="542" height="527" frameX="-3" frameY="-1" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10012" x="1090" y="0" width="534" height="528" frameX="-6" frameY="0" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Down instance 10013" x="1624" y="0" width="529" height="528" frameX="-11" frameY="0" frameWidth="548" frameHeight="528"/>
+	<SubTexture name="invislol Idle instance 10000" x="2153" y="0" width="428" height="523"/>
+	<SubTexture name="invislol Idle instance 10001" x="2153" y="0" width="428" height="523"/>
+	<SubTexture name="invislol Idle instance 10002" x="2581" y="0" width="416" height="523" frameX="-8" frameY="0" frameWidth="428" frameHeight="523"/>
+	<SubTexture name="invislol Idle instance 10003" x="2581" y="0" width="416" height="523" frameX="-8" frameY="0" frameWidth="428" frameHeight="523"/>
+	<SubTexture name="invislol Idle instance 10004" x="2997" y="0" width="408" height="520" frameX="-12" frameY="-3" frameWidth="428" frameHeight="523"/>
+	<SubTexture name="invislol Idle instance 10005" x="2997" y="0" width="408" height="520" frameX="-12" frameY="-3" frameWidth="428" frameHeight="523"/>
+	<SubTexture name="invislol Idle instance 10006" x="3405" y="0" width="401" height="516" frameX="-19" frameY="-7" frameWidth="428" frameHeight="523"/>
+	<SubTexture name="invislol Idle instance 10007" x="3405" y="0" width="401" height="516" frameX="-19" frameY="-7" frameWidth="428" frameHeight="523"/>
+	<SubTexture name="invislol Idle instance 10008" x="3405" y="0" width="401" height="516" frameX="-19" frameY="-7" frameWidth="428" frameHeight="523"/>
+	<SubTexture name="invislol Idle instance 10009" x="3405" y="0" width="401" height="516" frameX="-19" frameY="-7" frameWidth="428" frameHeight="523"/>
+	<SubTexture name="invislol Idle instance 10010" x="3405" y="0" width="401" height="516" frameX="-19" frameY="-7" frameWidth="428" frameHeight="523"/>
+	<SubTexture name="invislol Idle instance 10011" x="3405" y="0" width="401" height="516" frameX="-19" frameY="-7" frameWidth="428" frameHeight="523"/>
+	<SubTexture name="invislol Idle instance 10012" x="3405" y="0" width="401" height="516" frameX="-19" frameY="-7" frameWidth="428" frameHeight="523"/>
+	<SubTexture name="invislol Idle instance 10013" x="3405" y="0" width="401" height="516" frameX="-19" frameY="-7" frameWidth="428" frameHeight="523"/>
+	<SubTexture name="invislol Left instance 10000" x="0" y="528" width="586" height="537" frameX="0" frameY="0" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10001" x="586" y="528" width="589" height="534" frameX="0" frameY="-2" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10002" x="1175" y="528" width="579" height="530" frameX="0" frameY="-3" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10003" x="1754" y="528" width="579" height="529" frameX="0" frameY="-4" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10004" x="1754" y="528" width="579" height="529" frameX="0" frameY="-4" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10005" x="0" y="528" width="586" height="537" frameX="0" frameY="0" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10006" x="586" y="528" width="589" height="534" frameX="0" frameY="-2" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10007" x="1175" y="528" width="579" height="530" frameX="0" frameY="-3" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10008" x="1754" y="528" width="579" height="529" frameX="0" frameY="-4" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10009" x="1754" y="528" width="579" height="529" frameX="0" frameY="-4" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10010" x="0" y="528" width="586" height="537" frameX="0" frameY="0" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10011" x="586" y="528" width="589" height="534" frameX="0" frameY="-2" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10012" x="1175" y="528" width="579" height="530" frameX="0" frameY="-3" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Left instance 10013" x="1754" y="528" width="579" height="529" frameX="0" frameY="-4" frameWidth="589" frameHeight="537"/>
+	<SubTexture name="invislol Right copy instance 10000" x="2333" y="528" width="576" height="531" frameX="-7" frameY="0" frameWidth="586" frameHeight="531"/>
+	<SubTexture name="invislol Right copy instance 10001" x="2909" y="528" width="586" height="531"/>
+	<SubTexture name="invislol Right copy instance 10002" x="3495" y="528" width="582" height="531" frameX="-3" frameY="0" frameWidth="586" frameHeight="531"/>
+	<SubTexture name="invislol Right copy instance 10003" x="0" y="1065" width="578" height="531" frameX="-5" frameY="0" frameWidth="586" frameHeight="531"/>
+	<SubTexture name="invislol Right copy instance 10004" x="2333" y="528" width="576" height="531" frameX="-7" frameY="0" frameWidth="586" frameHeight="531"/>
+	<SubTexture name="invislol Right copy instance 10005" x="2909" y="528" width="586" height="531"/>
+	<SubTexture name="invislol Right copy instance 10006" x="3495" y="528" width="582" height="531" frameX="-3" frameY="0" frameWidth="586" frameHeight="531"/>
+	<SubTexture name="invislol Right copy instance 10007" x="0" y="1065" width="578" height="531" frameX="-5" frameY="0" frameWidth="586" frameHeight="531"/>
+	<SubTexture name="invislol Right copy instance 10008" x="2333" y="528" width="576" height="531" frameX="-7" frameY="0" frameWidth="586" frameHeight="531"/>
+	<SubTexture name="invislol Right copy instance 10009" x="2909" y="528" width="586" height="531"/>
+	<SubTexture name="invislol Right copy instance 10010" x="3495" y="528" width="582" height="531" frameX="-3" frameY="0" frameWidth="586" frameHeight="531"/>
+	<SubTexture name="invislol Right copy instance 10011" x="0" y="1065" width="578" height="531" frameX="-5" frameY="0" frameWidth="586" frameHeight="531"/>
+	<SubTexture name="invislol Right copy instance 10012" x="2333" y="528" width="576" height="531" frameX="-7" frameY="0" frameWidth="586" frameHeight="531"/>
+	<SubTexture name="invislol Right copy instance 10013" x="2909" y="528" width="586" height="531"/>
+	<SubTexture name="invislol Up instance 10000" x="578" y="1065" width="426" height="543" frameX="-10" frameY="-7" frameWidth="437" frameHeight="550"/>
+	<SubTexture name="invislol Up instance 10001" x="1004" y="1065" width="437" height="550"/>
+	<SubTexture name="invislol Up instance 10002" x="1441" y="1065" width="434" height="548" frameX="-3" frameY="-2" frameWidth="437" frameHeight="550"/>
+	<SubTexture name="invislol Up instance 10003" x="1875" y="1065" width="431" height="546" frameX="-6" frameY="-4" frameWidth="437" frameHeight="550"/>
+	<SubTexture name="invislol Up instance 10004" x="578" y="1065" width="426" height="543" frameX="-10" frameY="-7" frameWidth="437" frameHeight="550"/>
+	<SubTexture name="invislol Up instance 10005" x="1004" y="1065" width="437" height="550"/>
+	<SubTexture name="invislol Up instance 10006" x="1441" y="1065" width="434" height="548" frameX="-3" frameY="-2" frameWidth="437" frameHeight="550"/>
+	<SubTexture name="invislol Up instance 10007" x="1875" y="1065" width="431" height="546" frameX="-6" frameY="-4" frameWidth="437" frameHeight="550"/>
+	<SubTexture name="invislol Up instance 10008" x="578" y="1065" width="426" height="543" frameX="-10" frameY="-7" frameWidth="437" frameHeight="550"/>
+	<SubTexture name="invislol Up instance 10009" x="1004" y="1065" width="437" height="550"/>
+	<SubTexture name="invislol Up instance 10010" x="1441" y="1065" width="434" height="548" frameX="-3" frameY="-2" frameWidth="437" frameHeight="550"/>
+	<SubTexture name="invislol Up instance 10011" x="1875" y="1065" width="431" height="546" frameX="-6" frameY="-4" frameWidth="437" frameHeight="550"/>
+	<SubTexture name="invislol Up instance 10012" x="578" y="1065" width="426" height="543" frameX="-10" frameY="-7" frameWidth="437" frameHeight="550"/>
+	<SubTexture name="invislol Up instance 10013" x="1004" y="1065" width="437" height="550"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				405,
+				399
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MechSonic_Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				433,
+				337
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MetalSonic_Left"
+		},
+		{
+			"offsets": [
+				392,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MetalSonic_Down"
+		},
+		{
+			"offsets": [
+				428,
+				402
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MetalSonic_Up"
+		},
+		{
+			"offsets": [
+				364,
+				288
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MechSonic_Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MechSonic",
+	"position": [
+		390,
+		460
+	],
+	"healthicon": "metal",
+	"flip_x": false,
+	"healthbar_colors": [
+		42,
+		42,
+		145
+	],
+	"camera_position": [
+		-410,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

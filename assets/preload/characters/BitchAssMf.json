@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				490
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"offsets": [
+				524,
+				564
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bitch Left"
+		},
+		{
+			"offsets": [
+				840,
+				560
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bitch Right"
+		},
+		{
+			"offsets": [
+				711,
+				664
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bitch Up"
+		},
+		{
+			"offsets": [
+				723,
+				538
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bitch Down"
+		},
+		{
+			"offsets": [
+				705,
+				549
+			],
+			"loop": true,
+			"fps": 28,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bitch Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bitch Hoe",
+	"position": [
+		360,
+		610
+	],
+	"healthicon": "bitch",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		177,
+		76
+	],
+	"camera_position": [
+		-510,
+		-340
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

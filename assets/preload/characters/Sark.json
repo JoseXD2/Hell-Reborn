@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				-51
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				244,
+				-60
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-73
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				251,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				241,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "Sing Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sark",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sark",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		90,
+		122
+	],
+	"camera_position": [
+		-680,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

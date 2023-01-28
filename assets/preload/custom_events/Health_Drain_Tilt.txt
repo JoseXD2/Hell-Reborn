@@ -1,0 +1,2 @@
+value1 == on/off
+value2 == 0.15, 0.5, 0.015, etc.

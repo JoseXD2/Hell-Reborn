@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TailsDollStatic.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Static_0" x="0" y="0" width="720" height="480"/>
+	<SubTexture name="Static_1" x="720" y="0" width="720" height="480"/>
+	<SubTexture name="Static_10" x="1440" y="0" width="720" height="480"/>
+	<SubTexture name="Static_11" x="2160" y="0" width="720" height="480"/>
+	<SubTexture name="Static_2" x="2880" y="0" width="720" height="480"/>
+	<SubTexture name="Static_3" x="0" y="480" width="720" height="480"/>
+	<SubTexture name="Static_4" x="720" y="480" width="720" height="480"/>
+	<SubTexture name="Static_5" x="1440" y="480" width="720" height="480"/>
+	<SubTexture name="Static_6" x="2160" y="480" width="720" height="480"/>
+	<SubTexture name="Static_7" x="2880" y="480" width="720" height="480"/>
+	<SubTexture name="Static_8" x="0" y="960" width="720" height="480"/>
+	<SubTexture name="Static_9" x="720" y="960" width="720" height="480"/>
+</TextureAtlas>

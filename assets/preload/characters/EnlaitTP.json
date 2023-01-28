@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				239,
+				231
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				239,
+				231
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				239,
+				231
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				239,
+				231
+			],
+			"anim": "Kill",
+			"fps": 10,
+			"name": "Reveal",
+			"indices": []
+		},
+		{
+			"offsets": [
+				239,
+				231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				239,
+				231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EnlaitTP",
+	"position": [
+		1260,
+		200
+	],
+	"healthicon": "xain",
+	"flip_x": false,
+	"healthbar_colors": [
+		72,
+		94,
+		132
+	],
+	"camera_position": [
+		-530,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

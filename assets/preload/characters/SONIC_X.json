@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				405,
+				439
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				534,
+				384
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				453,
+				558
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				380,
+				380
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				410,
+				620
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Laugh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				381,
+				354
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				290
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Downtwo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lord X",
+	"position": [
+		240,
+		500
+	],
+	"healthicon": "x",
+	"flip_x": false,
+	"healthbar_colors": [
+		86,
+		88,
+		141
+	],
+	"camera_position": [
+		-540,
+		-410
+	],
+	"sing_duration": 4,
+	"scale": 1.10000000000002
+}

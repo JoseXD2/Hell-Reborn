@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="death.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Loorde ex 1.png" x="0" y="0" width="1760" height="1320"/>
+	<SubTexture name="Loorde ex 2.png" x="1760" y="0" width="1760" height="1320"/>
+</TextureAtlas>

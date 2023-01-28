@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				433,
+				181
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				154,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				156,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				164,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				435,
+				184
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TyrantKnucklesTails",
+	"position": [
+		240,
+		150
+	],
+	"healthicon": "knuckle",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		51,
+		51
+	],
+	"camera_position": [
+		-240,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

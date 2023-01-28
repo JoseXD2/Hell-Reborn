@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				405,
+				399
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bf Idle"
+		},
+		{
+			"offsets": [
+				404,
+				414
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bf Left"
+		},
+		{
+			"offsets": [
+				361,
+				424
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bf Down"
+		},
+		{
+			"offsets": [
+				443,
+				408
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bf Up"
+		},
+		{
+			"offsets": [
+				388,
+				395
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Bf Haha"
+		},
+		{
+			"offsets": [
+				390,
+				400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bf Right"
+		},
+		{
+			"offsets": [
+				357,
+				395
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "bf DIE bump"
+		},
+		{
+			"offsets": [
+				337,
+				411
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "bf DIE"
+		},
+		{
+			"offsets": [
+				327,
+				400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "bf DIE bump"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_purp",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		450,
+		-260
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

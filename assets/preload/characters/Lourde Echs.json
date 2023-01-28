@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				512,
+				-198
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				680,
+				-259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				423,
+				-259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				733,
+				-199
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				354,
+				-280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lourde Echs",
+	"position": [
+		-30,
+		-100
+	],
+	"healthicon": "loorde",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		111,
+		169
+	],
+	"camera_position": [
+		-370,
+		470
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

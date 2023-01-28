@@ -1,0 +1,41 @@
+{
+	"storyName": "metal's search",
+	"difficulties": "hard, encore",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"oxidized",
+			"metal",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"decayed",
+			"metal",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,8 @@
+Change Note Position
+(to make notes ivisible - copy below)
+0, 0, 0, (transparency), 2(after 2 secs)
+
+Value 1: 
+Arrows (0-3(dad)4-7(bf)) and 8 and 9 full strums
+Value 2: 
+x value, y value, rotation, transp (0-1), after(secs)

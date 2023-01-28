@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="XenoRing.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="XenoRing_Down0000" x="10" y="10" width="1100" height="764"/>
+	<SubTexture name="XenoRing_Down0001" x="10" y="10" width="1100" height="764"/>
+	<SubTexture name="XenoRing_Down0002" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Down0003" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Down0004" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Down0005" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Down0006" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Down0007" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Down0008" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Down0009" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Down0010" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Down0011" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Down0012" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Down0013" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Down0014" x="1114" y="10" width="1100" height="760" frameX="0" frameY="0" frameWidth="1100" frameHeight="764"/>
+	<SubTexture name="XenoRing_Idle0000" x="2218" y="10" width="1100" height="789"/>
+	<SubTexture name="XenoRing_Idle0001" x="2218" y="10" width="1100" height="789"/>
+	<SubTexture name="XenoRing_Idle0002" x="10" y="803" width="1100" height="782" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Idle0003" x="10" y="803" width="1100" height="782" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Idle0004" x="1114" y="803" width="1100" height="778" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Idle0005" x="1114" y="803" width="1100" height="778" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Idle0006" x="2218" y="803" width="1100" height="777" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Idle0007" x="2218" y="803" width="1100" height="777" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Idle0008" x="10" y="1589" width="1100" height="777" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Idle0009" x="10" y="1589" width="1100" height="777" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Idle0010" x="10" y="1589" width="1100" height="777" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Idle0011" x="10" y="1589" width="1100" height="777" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Idle0012" x="10" y="1589" width="1100" height="777" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Idle0013" x="10" y="1589" width="1100" height="777" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Idle0014" x="10" y="1589" width="1100" height="777" frameX="0" frameY="0" frameWidth="1100" frameHeight="789"/>
+	<SubTexture name="XenoRing_Left0000" x="1114" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0001" x="1114" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0002" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0003" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0004" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0005" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0006" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0007" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0008" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0009" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0010" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0011" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0012" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0013" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Left0014" x="2218" y="1589" width="1100" height="767"/>
+	<SubTexture name="XenoRing_Right0000" x="10" y="2370" width="1131" height="777" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0001" x="10" y="2370" width="1131" height="777" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0002" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0003" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0004" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0005" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0006" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0007" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0008" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0009" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0010" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0011" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0012" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0013" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Right0014" x="1145" y="2370" width="1125" height="779" frameX="0" frameY="0" frameWidth="1131" frameHeight="779"/>
+	<SubTexture name="XenoRing_Up0000" x="2274" y="2370" width="1100" height="749"/>
+	<SubTexture name="XenoRing_Up0001" x="2274" y="2370" width="1100" height="749"/>
+	<SubTexture name="XenoRing_Up0002" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+	<SubTexture name="XenoRing_Up0003" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+	<SubTexture name="XenoRing_Up0004" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+	<SubTexture name="XenoRing_Up0005" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+	<SubTexture name="XenoRing_Up0006" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+	<SubTexture name="XenoRing_Up0007" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+	<SubTexture name="XenoRing_Up0008" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+	<SubTexture name="XenoRing_Up0009" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+	<SubTexture name="XenoRing_Up0010" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+	<SubTexture name="XenoRing_Up0011" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+	<SubTexture name="XenoRing_Up0012" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+	<SubTexture name="XenoRing_Up0013" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+	<SubTexture name="XenoRing_Up0014" x="10" y="3153" width="1100" height="747" frameX="0" frameY="-2" frameWidth="1100" frameHeight="749"/>
+</TextureAtlas>

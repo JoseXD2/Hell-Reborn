@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tails_Doll_Front.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down_0" x="0" y="0" width="772" height="1080"/>
+	<SubTexture name="Down_1" x="772" y="0" width="772" height="1080"/>
+	<SubTexture name="Down_2" x="1544" y="0" width="772" height="1080"/>
+	<SubTexture name="Down_3" x="2316" y="0" width="772" height="1080"/>
+	<SubTexture name="Down_4" x="3088" y="0" width="772" height="1080"/>
+	<SubTexture name="Down_5" x="3860" y="0" width="772" height="1080"/>
+	<SubTexture name="Down_6" x="4632" y="0" width="772" height="1080"/>
+	<SubTexture name="Down_7" x="5404" y="0" width="772" height="1080"/>
+	<SubTexture name="Down_8" x="6176" y="0" width="772" height="1080"/>
+	<SubTexture name="Down_9" x="6948" y="0" width="772" height="1080"/>
+	<SubTexture name="Idle_0" x="0" y="1080" width="772" height="1080"/>
+	<SubTexture name="Idle_1" x="772" y="1080" width="772" height="1080"/>
+	<SubTexture name="Idle_2" x="772" y="2160" width="772" height="1080"/>
+	<SubTexture name="Idle_3" x="1544" y="2160" width="772" height="1080"/>
+	<SubTexture name="Idle_4" x="2316" y="2160" width="772" height="1080"/>
+	<SubTexture name="Idle_5" x="3088" y="2160" width="772" height="1080"/>
+	<SubTexture name="Idle_6" x="3860" y="2160" width="772" height="1080"/>
+	<SubTexture name="Idle_7" x="4632" y="2160" width="772" height="1080"/>
+	<SubTexture name="Idle_8" x="5404" y="2160" width="772" height="1080"/>
+	<SubTexture name="Idle_9" x="6176" y="2160" width="772" height="1080"/>
+	<SubTexture name="Idle_10" x="1544" y="1080" width="772" height="1080"/>
+	<SubTexture name="Idle_11" x="2316" y="1080" width="772" height="1080"/>
+	<SubTexture name="Idle_12" x="3088" y="1080" width="772" height="1080"/>
+	<SubTexture name="Idle_13" x="3860" y="1080" width="772" height="1080"/>
+	<SubTexture name="Idle_14" x="4632" y="1080" width="772" height="1080"/>
+	<SubTexture name="Idle_15" x="5404" y="1080" width="772" height="1080"/>
+	<SubTexture name="Idle_16" x="6176" y="1080" width="772" height="1080"/>
+	<SubTexture name="Idle_17" x="6948" y="1080" width="772" height="1080"/>
+	<SubTexture name="Idle_18" x="0" y="2160" width="772" height="1080"/>
+	<SubTexture name="Left_0" x="6948" y="2160" width="772" height="1080"/>
+	<SubTexture name="Left_1" x="0" y="3240" width="772" height="1080"/>
+	<SubTexture name="Left_2" x="772" y="3240" width="772" height="1080"/>
+	<SubTexture name="Left_3" x="1544" y="3240" width="772" height="1080"/>
+	<SubTexture name="Left_4" x="2316" y="3240" width="772" height="1080"/>
+	<SubTexture name="Left_5" x="3088" y="3240" width="772" height="1080"/>
+	<SubTexture name="Left_6" x="3860" y="3240" width="772" height="1080"/>
+	<SubTexture name="Left_7" x="4632" y="3240" width="772" height="1080"/>
+	<SubTexture name="Left_8" x="5404" y="3240" width="772" height="1080"/>
+	<SubTexture name="Right_0" x="6176" y="3240" width="772" height="1080"/>
+	<SubTexture name="Right_1" x="6948" y="3240" width="772" height="1080"/>
+	<SubTexture name="Right_2" x="0" y="4320" width="772" height="1080"/>
+	<SubTexture name="Right_3" x="772" y="4320" width="772" height="1080"/>
+	<SubTexture name="Right_4" x="1544" y="4320" width="772" height="1080"/>
+	<SubTexture name="Right_5" x="2316" y="4320" width="772" height="1080"/>
+	<SubTexture name="Right_6" x="3088" y="4320" width="772" height="1080"/>
+	<SubTexture name="Right_7" x="3860" y="4320" width="772" height="1080"/>
+	<SubTexture name="Up_0" x="4632" y="4320" width="772" height="1080"/>
+	<SubTexture name="Up_1" x="5404" y="4320" width="772" height="1080"/>
+	<SubTexture name="Up_2" x="6176" y="4320" width="772" height="1080"/>
+	<SubTexture name="Up_3" x="6948" y="4320" width="772" height="1080"/>
+	<SubTexture name="Up_4" x="0" y="5400" width="772" height="1080"/>
+	<SubTexture name="Up_5" x="772" y="5400" width="772" height="1080"/>
+	<SubTexture name="Up_6" x="1544" y="5400" width="772" height="1080"/>
+	<SubTexture name="Up_7" x="2316" y="5400" width="772" height="1080"/>
+</TextureAtlas>

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"torture",
+			"x",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"persistence",
+			"x",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"revenge",
+			"x",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard, encore",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "True hell",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

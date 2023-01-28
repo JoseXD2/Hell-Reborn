@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				247,
+				238
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				255,
+				238
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				249,
+				239
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				247,
+				238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				247,
+				238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Mobian Pixel",
+	"position": [
+		-1500,
+		330
+	],
+	"healthicon": "MobianP",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		64,
+		232
+	],
+	"camera_position": [
+		-190,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

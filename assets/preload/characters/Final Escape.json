@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				250,
+				-1312
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tails Soul Left"
+		},
+		{
+			"offsets": [
+				251,
+				1498
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tails Soul Right"
+		},
+		{
+			"offsets": [
+				220,
+				1491
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tails Soul Down"
+		},
+		{
+			"offsets": [
+				212,
+				-1338
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tails Soul Up"
+		},
+		{
+			"offsets": [
+				-277,
+				-439
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "idle",
+			"indices": [],
+			"name": "Run"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Exe begin",
+	"position": [
+		0,
+		-70
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 2.05
+}

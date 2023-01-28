@@ -1,0 +1,2 @@
+static for thingy
+value 2: how long it lasts before it disappears

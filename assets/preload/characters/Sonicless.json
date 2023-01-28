@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				255,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				248,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle Sonic"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				397,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sonk left real",
+			"indices": []
+		},
+		{
+			"offsets": [
+				461,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonk up real"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				245,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sonk right real",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sonicless",
+	"position": [
+		220,
+		0
+	],
+	"healthicon": "sonicless",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		84,
+		127
+	],
+	"camera_position": [
+		-190,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

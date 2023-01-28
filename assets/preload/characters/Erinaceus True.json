@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				408,
+				439
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				410,
+				439
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				418,
+				439
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				398,
+				438
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				513,
+				439
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Erinaceus",
+	"position": [
+		260,
+		230
+	],
+	"healthicon": "hedge",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		60,
+		116
+	],
+	"camera_position": [
+		-620,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

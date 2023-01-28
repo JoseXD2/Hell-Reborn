@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				278,
+				179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				306,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				295,
+				179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				341,
+				201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				295,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Gutted",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gutted",
+	"flip_x": false,
+	"healthbar_colors": [
+		219,
+		198,
+		198
+	],
+	"camera_position": [
+		-220,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

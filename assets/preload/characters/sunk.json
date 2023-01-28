@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				257,
+				161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Loorde ex 1"
+		},
+		{
+			"offsets": [
+				257,
+				161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Loorde ex 1"
+		},
+		{
+			"offsets": [
+				231,
+				121
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "Loorde ex 2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "death",
+	"position": [
+		-720,
+		50
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		110,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

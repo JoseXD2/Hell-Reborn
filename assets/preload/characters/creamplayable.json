@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cream down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				49
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cream left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				47
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cream right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				45
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cream idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cream up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cream",
+	"position": [
+		620,
+		0
+	],
+	"healthicon": "cream",
+	"flip_x": true,
+	"healthbar_colors": [
+		96,
+		72,
+		96
+	],
+	"camera_position": [
+		-420,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

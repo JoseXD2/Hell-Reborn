@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonicless">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle Sonic0000" x="0" y="0" width="478" height="691" frameX="-2" frameY="-5" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0001" x="0" y="0" width="478" height="691" frameX="-2" frameY="-5" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0002" x="478" y="0" width="487" height="693" frameX="-5" frameY="-13" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0003" x="478" y="0" width="487" height="693" frameX="-5" frameY="-13" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0004" x="965" y="0" width="492" height="696" frameX="-2" frameY="-8" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0005" x="965" y="0" width="492" height="696" frameX="-2" frameY="-8" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0006" x="1457" y="0" width="478" height="694" frameX="-1" frameY="-1" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0007" x="1457" y="0" width="478" height="694" frameX="-1" frameY="-1" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0008" x="1935" y="0" width="478" height="694" frameX="0" frameY="0" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0009" x="1935" y="0" width="478" height="694" frameX="0" frameY="0" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0010" x="1935" y="0" width="478" height="694" frameX="0" frameY="0" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0011" x="1935" y="0" width="478" height="694" frameX="0" frameY="0" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0012" x="1935" y="0" width="478" height="694" frameX="0" frameY="0" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0013" x="1935" y="0" width="478" height="694" frameX="0" frameY="0" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Idle Sonic0014" x="1935" y="0" width="478" height="694" frameX="0" frameY="0" frameWidth="494" frameHeight="706"/>
+	<SubTexture name="Sonk left real0000" x="2413" y="0" width="679" height="724" frameX="-5" frameY="0" frameWidth="702" frameHeight="724"/>
+	<SubTexture name="Sonk left real0001" x="2413" y="0" width="679" height="724" frameX="-5" frameY="0" frameWidth="702" frameHeight="724"/>
+	<SubTexture name="Sonk left real0002" x="3092" y="0" width="697" height="724" frameX="-5" frameY="0" frameWidth="702" frameHeight="724"/>
+	<SubTexture name="Sonk left real0003" x="3092" y="0" width="697" height="724" frameX="-5" frameY="0" frameWidth="702" frameHeight="724"/>
+	<SubTexture name="Sonk left real0004" x="0" y="724" width="698" height="724" frameX="0" frameY="0" frameWidth="702" frameHeight="724"/>
+	<SubTexture name="Sonk left real0005" x="0" y="724" width="698" height="724" frameX="0" frameY="0" frameWidth="702" frameHeight="724"/>
+	<SubTexture name="Sonk left real0006" x="0" y="724" width="698" height="724" frameX="0" frameY="0" frameWidth="702" frameHeight="724"/>
+	<SubTexture name="Sonk left real0007" x="0" y="724" width="698" height="724" frameX="0" frameY="0" frameWidth="702" frameHeight="724"/>
+	<SubTexture name="Sonk left real0008" x="0" y="724" width="698" height="724" frameX="0" frameY="0" frameWidth="702" frameHeight="724"/>
+	<SubTexture name="Sonk left real0009" x="0" y="724" width="698" height="724" frameX="0" frameY="0" frameWidth="702" frameHeight="724"/>
+	<SubTexture name="down sonk real0000" x="698" y="724" width="530" height="792" frameX="-9" frameY="-13" frameWidth="541" frameHeight="805"/>
+	<SubTexture name="down sonk real0001" x="698" y="724" width="530" height="792" frameX="-9" frameY="-13" frameWidth="541" frameHeight="805"/>
+	<SubTexture name="down sonk real0002" x="1228" y="724" width="541" height="779" frameX="0" frameY="0" frameWidth="541" frameHeight="805"/>
+	<SubTexture name="down sonk real0003" x="1228" y="724" width="541" height="779" frameX="0" frameY="0" frameWidth="541" frameHeight="805"/>
+	<SubTexture name="down sonk real0004" x="1769" y="724" width="534" height="785" frameX="-3" frameY="-3" frameWidth="541" frameHeight="805"/>
+	<SubTexture name="down sonk real0005" x="1769" y="724" width="534" height="785" frameX="-3" frameY="-3" frameWidth="541" frameHeight="805"/>
+	<SubTexture name="down sonk real0006" x="1769" y="724" width="534" height="785" frameX="-3" frameY="-3" frameWidth="541" frameHeight="805"/>
+	<SubTexture name="down sonk real0007" x="1769" y="724" width="534" height="785" frameX="-3" frameY="-3" frameWidth="541" frameHeight="805"/>
+	<SubTexture name="down sonk real0008" x="1769" y="724" width="534" height="785" frameX="-3" frameY="-3" frameWidth="541" frameHeight="805"/>
+	<SubTexture name="down sonk real0009" x="1769" y="724" width="534" height="785" frameX="-3" frameY="-3" frameWidth="541" frameHeight="805"/>
+	<SubTexture name="sonk right real0000" x="2303" y="724" width="747" height="770" frameX="-51" frameY="0" frameWidth="798" frameHeight="770"/>
+	<SubTexture name="sonk right real0001" x="2303" y="724" width="747" height="770" frameX="-51" frameY="0" frameWidth="798" frameHeight="770"/>
+	<SubTexture name="sonk right real0002" x="3050" y="724" width="735" height="752" frameX="0" frameY="-18" frameWidth="798" frameHeight="770"/>
+	<SubTexture name="sonk right real0003" x="3050" y="724" width="735" height="752" frameX="0" frameY="-18" frameWidth="798" frameHeight="770"/>
+	<SubTexture name="sonk right real0004" x="0" y="1516" width="750" height="752" frameX="-14" frameY="-18" frameWidth="798" frameHeight="770"/>
+	<SubTexture name="sonk right real0005" x="0" y="1516" width="750" height="752" frameX="-14" frameY="-18" frameWidth="798" frameHeight="770"/>
+	<SubTexture name="sonk right real0006" x="0" y="1516" width="750" height="752" frameX="-14" frameY="-18" frameWidth="798" frameHeight="770"/>
+	<SubTexture name="sonk right real0007" x="0" y="1516" width="750" height="752" frameX="-14" frameY="-18" frameWidth="798" frameHeight="770"/>
+	<SubTexture name="sonk right real0008" x="0" y="1516" width="750" height="752" frameX="-14" frameY="-18" frameWidth="798" frameHeight="770"/>
+	<SubTexture name="sonk right real0009" x="0" y="1516" width="750" height="752" frameX="-14" frameY="-18" frameWidth="798" frameHeight="770"/>
+	<SubTexture name="sonk up real0000" x="750" y="1516" width="864" height="745" frameX="0" frameY="0" frameWidth="865" frameHeight="745"/>
+	<SubTexture name="sonk up real0001" x="750" y="1516" width="864" height="745" frameX="0" frameY="0" frameWidth="865" frameHeight="745"/>
+	<SubTexture name="sonk up real0002" x="1614" y="1516" width="857" height="730" frameX="-7" frameY="-14" frameWidth="865" frameHeight="745"/>
+	<SubTexture name="sonk up real0003" x="1614" y="1516" width="857" height="730" frameX="-7" frameY="-14" frameWidth="865" frameHeight="745"/>
+	<SubTexture name="sonk up real0004" x="2471" y="1516" width="862" height="737" frameX="-3" frameY="-8" frameWidth="865" frameHeight="745"/>
+	<SubTexture name="sonk up real0005" x="2471" y="1516" width="862" height="737" frameX="-3" frameY="-8" frameWidth="865" frameHeight="745"/>
+	<SubTexture name="sonk up real0006" x="2471" y="1516" width="862" height="737" frameX="-3" frameY="-8" frameWidth="865" frameHeight="745"/>
+	<SubTexture name="sonk up real0007" x="2471" y="1516" width="862" height="737" frameX="-3" frameY="-8" frameWidth="865" frameHeight="745"/>
+	<SubTexture name="sonk up real0008" x="2471" y="1516" width="862" height="737" frameX="-3" frameY="-8" frameWidth="865" frameHeight="745"/>
+	<SubTexture name="sonk up real0009" x="2471" y="1516" width="862" height="737" frameX="-3" frameY="-8" frameWidth="865" frameHeight="745"/>
+</TextureAtlas>

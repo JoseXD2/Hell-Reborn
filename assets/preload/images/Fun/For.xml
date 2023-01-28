@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="For.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boom0000" x="0" y="0" width="590" height="513" frameX="0" frameY="-6" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0001" x="590" y="0" width="584" height="513" frameX="-3" frameY="-6" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0002" x="1174" y="0" width="579" height="517" frameX="-5" frameY="-3" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0003" x="1174" y="0" width="579" height="517" frameX="-5" frameY="-3" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0004" x="0" y="517" width="579" height="519" frameX="-5" frameY="-1" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0005" x="0" y="517" width="579" height="519" frameX="-5" frameY="-1" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0006" x="579" y="517" width="579" height="520" frameX="-5" frameY="0" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0007" x="579" y="517" width="579" height="520" frameX="-5" frameY="0" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0008" x="579" y="517" width="579" height="520" frameX="-5" frameY="0" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0009" x="579" y="517" width="579" height="520" frameX="-5" frameY="0" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0010" x="579" y="517" width="579" height="520" frameX="-5" frameY="0" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0011" x="579" y="517" width="579" height="520" frameX="-5" frameY="0" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0012" x="579" y="517" width="579" height="520" frameX="-5" frameY="0" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0013" x="579" y="517" width="579" height="520" frameX="-5" frameY="0" frameWidth="590" frameHeight="520"/>
+	<SubTexture name="boom0014" x="579" y="517" width="579" height="520" frameX="-5" frameY="0" frameWidth="590" frameHeight="520"/>
+</TextureAtlas>

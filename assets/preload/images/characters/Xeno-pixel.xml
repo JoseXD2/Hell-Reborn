@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Xeno-pixel.png" width="2904" height="3419">
+  <SubTexture name="Left0000" x="0" y="0"  width="745" height="700" frameX="-133" frameY="-133" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Left0001" x="745" y="0"  width="730" height="730" frameX="-148" frameY="-103" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Right0002" x="0" y="700"  width="715" height="700" frameX="-319" frameY="-133" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Right0000" x="1475" y="0"  width="715" height="668" frameX="-350" frameY="-165" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Right0001" x="2190" y="0"  width="714" height="700" frameX="-335" frameY="-133" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Left0002" x="1475" y="668"  width="699" height="730" frameX="-179" frameY="-103" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Down0000" x="715" y="730"  width="637" height="606" frameX="-381" frameY="-227" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Down0001" x="715" y="1336"  width="622" height="638" frameX="-381" frameY="-195" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Down0002" x="0" y="1400"  width="606" height="653" frameX="-381" frameY="-180" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Up0002" x="2174" y="700"  width="575" height="715" frameX="-272" frameY="-118" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Up0000" x="2174" y="1415"  width="559" height="762" frameX="-272" frameY="-71" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Up0001" x="1337" y="1398"  width="559" height="746" frameX="-272" frameY="-87" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Idle0003" x="606" y="1974"  width="559" height="730" frameX="-319" frameY="-103" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Idle0002" x="0" y="2053"  width="543" height="715" frameX="-335" frameY="-118" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Idle0001" x="1165" y="2144"  width="543" height="700" frameX="-335" frameY="-133" frameWidth="1200" frameHeight="900"/>
+  <SubTexture name="Idle0000" x="543" y="2704"  width="528" height="715" frameX="-350" frameY="-118" frameWidth="1200" frameHeight="900"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				490
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"offsets": [
+				535,
+				369
+			],
+			"indices": [],
+			"fps": 28,
+			"anim": "idle",
+			"loop": false,
+			"name": "xeno 1"
+		},
+		{
+			"offsets": [
+				563,
+				370
+			],
+			"indices": [],
+			"fps": 28,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up lol"
+		},
+		{
+			"offsets": [
+				504,
+				394
+			],
+			"indices": [],
+			"fps": 28,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "xeno 2"
+		},
+		{
+			"offsets": [
+				410,
+				390
+			],
+			"indices": [],
+			"fps": 28,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "xeno 3"
+		},
+		{
+			"offsets": [
+				421,
+				364
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "xeno 4"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xeno die lol",
+	"position": [
+		360,
+		520
+	],
+	"healthicon": "xeno1",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		96
+	],
+	"camera_position": [
+		-510,
+		-340
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

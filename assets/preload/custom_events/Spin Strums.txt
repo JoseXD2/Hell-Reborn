@@ -1,0 +1,3 @@
+Spins the strumlines 360 degrees smoothly
+
+Value 1: Duration

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				396,
+				444
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				343,
+				508
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				405,
+				439
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				563,
+				430
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				268,
+				460
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jinx",
+	"position": [
+		200,
+		450
+	],
+	"healthicon": "jinx",
+	"flip_x": false,
+	"healthbar_colors": [
+		206,
+		255,
+		255
+	],
+	"camera_position": [
+		-310,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

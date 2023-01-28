@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-18,
+				67
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleXenobb"
+		},
+		{
+			"offsets": [
+				-109,
+				69
+			],
+			"loop": false,
+			"fps": 42,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				264,
+				21
+			],
+			"loop": false,
+			"fps": 38,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-216,
+				-111
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-59,
+				-56
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ycrXenoTest",
+	"position": [
+		-230,
+		30
+	],
+	"healthicon": "ycr",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		13,
+		135
+	],
+	"camera_position": [
+		50,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

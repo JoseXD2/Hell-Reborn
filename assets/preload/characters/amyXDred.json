@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				162
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Amy Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				314,
+				39
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Amy Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				167
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Amy Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				353,
+				206
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Amy Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				262,
+				163
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Amy Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amyXDred",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "amy",
+	"flip_x": false,
+	"healthbar_colors": [
+		184,
+		115,
+		115
+	],
+	"camera_position": [
+		-220,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

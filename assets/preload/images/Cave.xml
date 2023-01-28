@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cave.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="THREADED LIES_0" x="0" y="0" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_1" x="1200" y="0" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_11" x="2400" y="0" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_12" x="0" y="675" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_13" x="1200" y="675" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_14" x="2400" y="675" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_15" x="0" y="1350" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_16" x="1200" y="1350" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_17" x="2400" y="1350" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_18" x="0" y="2025" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_2" x="1200" y="2025" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_3" x="2400" y="2025" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_4" x="0" y="2700" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_5" x="1200" y="2700" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_6" x="2400" y="2700" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_7" x="0" y="3375" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_8" x="1200" y="3375" width="1200" height="675"/>
+	<SubTexture name="THREADED LIES_9" x="2400" y="3375" width="1200" height="675"/>
+</TextureAtlas>

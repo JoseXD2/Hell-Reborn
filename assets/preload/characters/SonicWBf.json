@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				84,
+				-281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SonicBf NOTE LEFT"
+		},
+		{
+			"offsets": [
+				72,
+				-278
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SonicBf NOTE UP"
+		},
+		{
+			"offsets": [
+				10,
+				-310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SonicBf NOTE DOWN"
+		},
+		{
+			"offsets": [
+				70,
+				-283
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SonicBf NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				43,
+				-288
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SonicBf idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicWBf",
+	"position": [
+		290,
+		0
+	],
+	"healthicon": "Sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		107,
+		255
+	],
+	"camera_position": [
+		-30,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

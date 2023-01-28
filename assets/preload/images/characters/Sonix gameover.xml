@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonix gameover.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonix enter_0" x="0" y="0" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_1" x="1200" y="0" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_10" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_11" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_12" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_13" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_14" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_15" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_16" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_17" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_18" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_19" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_2" x="2400" y="0" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_3" x="0" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_4" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_5" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_6" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_7" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_8" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix enter_9" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_0" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_1" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_10" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_11" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_12" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_13" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_14" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_15" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_16" x="0" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_17" x="2400" y="0" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_18" x="1200" y="0" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_19" x="0" y="0" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_2" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_3" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_4" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_5" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_6" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_7" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_8" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix entrance_9" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_0" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_1" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_10" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_11" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_12" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_13" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_14" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_15" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_2" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_3" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_4" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_5" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_6" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_7" x="1200" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_8" x="2400" y="900" width="1200" height="900"/>
+	<SubTexture name="Sonix stay_9" x="1200" y="900" width="1200" height="900"/>
+</TextureAtlas>

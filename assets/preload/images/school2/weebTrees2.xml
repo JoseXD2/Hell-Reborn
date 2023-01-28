@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="weebTrees2.png"><SubTexture name="weebTrees2 idle0000" x="0" y="0" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0001" x="316" y="0" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0002" x="632" y="0" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0003" x="948" y="0" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0004" x="0" y="86" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0005" x="316" y="86" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0006" x="632" y="86" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0007" x="948" y="86" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0008" x="0" y="172" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0009" x="316" y="172" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0010" x="632" y="172" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0011" x="948" y="172" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0012" x="0" y="258" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0013" x="316" y="258" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0014" x="632" y="258" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0015" x="948" y="258" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0016" x="0" y="344" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0017" x="316" y="344" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0018" x="632" y="344" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+<SubTexture name="weebTrees2 idle0019" x="948" y="344" width="316" height="86" frameX="0" frameY="0" frameWidth="316" frameHeight="86" />
+</TextureAtlas>

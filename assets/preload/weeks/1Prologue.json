@@ -1,0 +1,49 @@
+{
+	"storyName": "Betrayal",
+	"difficulties": "hard, encore",
+	"hideFreeplay": false,
+	"weekBackground": "friends",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"best-friends-forever",
+			"tailsbff",
+			[
+				255,
+				0,
+				80
+			]
+		],
+		[
+			"tyrant",
+			"knuckle",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"futile-resistance",
+			"eggman",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

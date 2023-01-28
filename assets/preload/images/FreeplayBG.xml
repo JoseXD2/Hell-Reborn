@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FreeplayBG.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="idle1" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="idle2" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="idle3" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="idle4" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="idle5" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="idle6" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="idle7" x="5760" y="1080" width="1920" height="1080"/>
+	<SubTexture name="idle8" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="idle9" x="1920" y="2160" width="1920" height="1080"/>
+	<SubTexture name="idle10" x="3840" y="2160" width="1920" height="1080"/>
+	<SubTexture name="idle11" x="5760" y="2160" width="1920" height="1080"/>
+	<SubTexture name="idle12" x="0" y="3240" width="1920" height="1080"/>
+	<SubTexture name="idle13" x="1920" y="3240" width="1920" height="1080"/>
+	<SubTexture name="idle14" x="3840" y="3240" width="1920" height="1080"/>
+	<SubTexture name="idle15" x="5760" y="3240" width="1920" height="1080"/>
+	<SubTexture name="idle16" x="0" y="4320" width="1920" height="1080"/>
+	<SubTexture name="idle17" x="1920" y="4320" width="1920" height="1080"/>
+	<SubTexture name="idle18" x="3840" y="4320" width="1920" height="1080"/>
+	<SubTexture name="idle19" x="5760" y="4320" width="1920" height="1080"/>
+	<SubTexture name="idle20" x="0" y="5400" width="1920" height="1080"/>
+	<SubTexture name="idle21" x="1920" y="5400" width="1920" height="1080"/>
+	<SubTexture name="idle22" x="3840" y="5400" width="1920" height="1080"/>
+	<SubTexture name="idle23" x="5760" y="5400" width="1920" height="1080"/>
+	<SubTexture name="idle24" x="0" y="6480" width="1920" height="1080"/>
+	<SubTexture name="idle25" x="1920" y="6480" width="1920" height="1080"/>
+	<SubTexture name="idle26" x="3840" y="6480" width="1920" height="1080"/>
+	<SubTexture name="idle27" x="5760" y="6480" width="1920" height="1080"/>
+</TextureAtlas>

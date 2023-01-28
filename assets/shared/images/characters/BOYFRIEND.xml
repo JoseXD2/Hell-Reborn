@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOYFRIEND.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bf Die First_0" x="0" y="0" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_1" x="0" y="0" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_10" x="0" y="995" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_11" x="0" y="995" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_12" x="0" y="995" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_13" x="0" y="995" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_14" x="0" y="995" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_15" x="0" y="995" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_16" x="0" y="995" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_17" x="0" y="995" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_18" x="1200" y="0" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_19" x="1200" y="0" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_2" x="2400" y="0" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_20" x="3600" y="0" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_21" x="3600" y="0" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_22" x="3600" y="0" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_3" x="4800" y="0" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_4" x="4800" y="0" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_5" x="6000" y="0" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_6" x="0" y="995" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_7" x="0" y="995" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_8" x="0" y="995" width="1200" height="995"/>
+	<SubTexture name="Bf Die First_9" x="0" y="995" width="1200" height="995"/>
+	<SubTexture name="Bf Down_0" x="1200" y="995" width="1200" height="1125"/>
+	<SubTexture name="Bf Down_1" x="2400" y="995" width="1200" height="1125"/>
+	<SubTexture name="Bf Down_2" x="3600" y="995" width="1200" height="1125"/>
+	<SubTexture name="Bf Haha_0" x="4800" y="995" width="1200" height="1125"/>
+	<SubTexture name="Bf Haha_1" x="6000" y="995" width="1200" height="1125"/>
+	<SubTexture name="Bf Haha_2" x="0" y="2120" width="1200" height="1125"/>
+	<SubTexture name="Bf Idle_0" x="1200" y="2120" width="1200" height="1125"/>
+	<SubTexture name="Bf Idle_1" x="2400" y="2120" width="1200" height="1125"/>
+	<SubTexture name="Bf Idle_2" x="3600" y="2120" width="1200" height="1125"/>
+	<SubTexture name="Bf Idle_3" x="4800" y="2120" width="1200" height="1125"/>
+	<SubTexture name="Bf Left_0" x="6000" y="2120" width="1200" height="1125"/>
+	<SubTexture name="Bf Left_1" x="0" y="3245" width="1200" height="1125"/>
+	<SubTexture name="Bf Left_2" x="1200" y="3245" width="1200" height="1125"/>
+	<SubTexture name="Bf Right_0" x="2400" y="3245" width="1200" height="1125"/>
+	<SubTexture name="Bf Right_1" x="3600" y="3245" width="1200" height="1125"/>
+	<SubTexture name="Bf Right_2" x="4800" y="3245" width="1200" height="1125"/>
+	<SubTexture name="Bf Up_0" x="6000" y="3245" width="1200" height="1125"/>
+	<SubTexture name="Bf Up_1" x="0" y="4370" width="1200" height="1125"/>
+	<SubTexture name="Bf Up_2" x="1200" y="4370" width="1200" height="1125"/>
+	<SubTexture name="Bf Up_3" x="2400" y="4370" width="1200" height="1125"/>
+	<SubTexture name="Die Alive_0" x="3600" y="0" width="1200" height="995"/>
+	<SubTexture name="Die Alive_1" x="3600" y="0" width="1200" height="995"/>
+	<SubTexture name="Die Alive_10" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_11" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_12" x="3600" y="4370" width="1200" height="995"/>
+	<SubTexture name="Die Alive_13" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_14" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_15" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_16" x="3600" y="4370" width="1200" height="995"/>
+	<SubTexture name="Die Alive_17" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_18" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_19" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_2" x="3600" y="0" width="1200" height="995"/>
+	<SubTexture name="Die Alive_20" x="3600" y="4370" width="1200" height="995"/>
+	<SubTexture name="Die Alive_21" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_22" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_23" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_24" x="4800" y="4370" width="1200" height="995"/>
+	<SubTexture name="Die Alive_25" x="6000" y="4370" width="1200" height="995"/>
+	<SubTexture name="Die Alive_26" x="0" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_27" x="1200" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_28" x="2400" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_29" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_3" x="4800" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_30" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_31" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_32" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_33" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_34" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_35" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_36" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_37" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_38" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_39" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_4" x="6000" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_40" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_41" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_42" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_43" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_44" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_45" x="3600" y="5495" width="1200" height="995"/>
+	<SubTexture name="Die Alive_5" x="0" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_6" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_7" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_8" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="Die Alive_9" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_0" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_1" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_10" x="3600" y="4370" width="1200" height="995"/>
+	<SubTexture name="bf DIE_11" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_12" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_13" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_14" x="3600" y="4370" width="1200" height="995"/>
+	<SubTexture name="bf DIE_15" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_16" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_17" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_2" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_3" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_4" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_5" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_6" x="3600" y="4370" width="1200" height="995"/>
+	<SubTexture name="bf DIE_7" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_8" x="1200" y="6490" width="1200" height="995"/>
+	<SubTexture name="bf DIE_9" x="1200" y="6490" width="1200" height="995"/>
+</TextureAtlas>

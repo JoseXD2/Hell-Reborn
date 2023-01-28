@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				405,
+				439
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				405,
+				439
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				405,
+				439
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				405,
+				439
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singUP",
+			"loop": true,
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				405,
+				439
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Boyfrind-Pixel-Dash",
+	"position": [
+		-950,
+		-170
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		-200,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

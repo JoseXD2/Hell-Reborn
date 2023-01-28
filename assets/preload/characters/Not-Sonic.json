@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				470,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Spoingus Idle"
+		},
+		{
+			"offsets": [
+				-56,
+				-370
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Spoingus Up"
+		},
+		{
+			"offsets": [
+				461,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Spoingus Left"
+		},
+		{
+			"offsets": [
+				60,
+				-443
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Spoingus Right"
+		},
+		{
+			"offsets": [
+				470,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Spoingus Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Not-Sonic",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "notsonic2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		127,
+		255
+	],
+	"camera_position": [
+		-620,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

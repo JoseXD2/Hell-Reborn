@@ -1,0 +1,1 @@
+Self explanatory, make Value 1 TRUE to boom, make Value 1 FALSE to not boom :D

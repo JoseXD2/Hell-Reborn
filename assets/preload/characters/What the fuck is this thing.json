@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				239,
+				231
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "Kill",
+			"indices": [],
+			"name": "Reveal"
+		},
+		{
+			"offsets": [
+				247,
+				238
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "lord x idle"
+		},
+		{
+			"offsets": [
+				231,
+				235
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "lord x down"
+		},
+		{
+			"offsets": [
+				259,
+				235
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "lord x up"
+		},
+		{
+			"offsets": [
+				274,
+				222
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "lord x left"
+		},
+		{
+			"offsets": [
+				233,
+				191
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "lord x right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SONIC_X",
+	"position": [
+		-200,
+		210
+	],
+	"healthicon": "xain",
+	"flip_x": false,
+	"healthbar_colors": [
+		72,
+		94,
+		132
+	],
+	"camera_position": [
+		-250,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

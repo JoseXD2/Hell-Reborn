@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Green Hill Zone.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="green hill zone bg_0" x="0" y="0" width="641" height="257"/>
+	<SubTexture name="green hill zone bg_1" x="0" y="257" width="641" height="257"/>
+</TextureAtlas>

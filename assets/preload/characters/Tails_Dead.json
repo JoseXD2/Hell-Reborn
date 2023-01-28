@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				405,
+				439
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "Tails Controlled Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				540,
+				321
+			],
+			"anim": "singLEFT",
+			"fps": 28,
+			"name": "Tails Controlled Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				480
+			],
+			"anim": "singRIGHT",
+			"fps": 28,
+			"name": "Tails Controlled Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				351,
+				434
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tails Controlled Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				443,
+				628
+			],
+			"anim": "singUP",
+			"fps": 28,
+			"name": "Tails Controlled Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tails Dead Purp",
+	"position": [
+		280,
+		650
+	],
+	"healthicon": "T",
+	"flip_x": false,
+	"healthbar_colors": [
+		11,
+		11,
+		11
+	],
+	"camera_position": [
+		-340,
+		-410
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				408,
+				441
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				409,
+				440
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				398,
+				441
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				402,
+				441
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				438,
+				441
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				440
+			],
+			"anim": "Talk",
+			"fps": 26,
+			"name": "Little",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Xeno Genesis",
+	"position": [
+		1270,
+		420
+	],
+	"healthicon": "pixelxeno",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		0,
+		116
+	],
+	"camera_position": [
+		-650,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

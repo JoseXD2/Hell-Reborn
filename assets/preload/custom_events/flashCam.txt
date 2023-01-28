@@ -1,0 +1,2 @@
+Blood loss FX
+Value 1: dur

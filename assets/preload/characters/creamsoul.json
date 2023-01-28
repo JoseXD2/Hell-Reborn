@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-338
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Cream DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-351
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Cream LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-333
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Cream RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-308
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Cream UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-355
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cream IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/creamsoul",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cream",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		72,
+		96
+	],
+	"camera_position": [
+		140,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

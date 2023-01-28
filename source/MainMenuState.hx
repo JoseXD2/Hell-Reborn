@@ -267,11 +267,14 @@ class MainMenuState extends MusicBeatState
 
 		// NG.core.calls.event.logEvent('swag').send();
 
+		
 		changeItem();
-
+#if android
+                addVirtualPad(UP_DOWN, A_B);
+                #end
 		super.create();
-		for (i in 0...FileSystem.readDirectory("mods/MainMenuState").length){
-			allDirPath = 'MainMenuState/' + FileSystem.readDirectory("mods/MainMenuState")[i];
+		for (i in 0...Tools.readDirectory("mods/MainMenuState").length){
+			allDirPath = 'MainMenuState/' + Tools.readDirectory("mods/MainMenuState")[i];
 			runHaxeCodeFromStr(Paths.getTextFromFile(allDirPath, false));
 			if (StringTools.contains(Paths.getTextFromFile(allDirPath, false), 'create()'))
 				runHaxeCodeFromStr('if (create != null) { create();}');
